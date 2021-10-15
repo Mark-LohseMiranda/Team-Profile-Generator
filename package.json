@@ -1,0 +1,30 @@
+{
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mark-LohseMiranda/Team-Profile-Generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mark-LohseMiranda/Team-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/Mark-LohseMiranda/Team-Profile-Generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  },
+  "devDependencies": {
+    "jest": "^27.2.5"
+  },
+  "keywords": [],
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  }
+}
