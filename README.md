@@ -26,6 +26,9 @@
 
 ### Usage
 
+![Screen Shot 2021-10-16 at 1 12 20 PM](https://user-images.githubusercontent.com/83737312/137601128-4fa4b38f-e41a-41e6-9441-8ada183c4297.png)
+![Screen Shot 2021-10-16 at 1 15 41 PM](https://user-images.githubusercontent.com/83737312/137601135-ab3d5af9-ea95-4ecb-abdf-f03864124514.png)
+
 >
 > Use via terminal command node index.js
 >
