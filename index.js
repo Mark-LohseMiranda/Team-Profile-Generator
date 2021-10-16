@@ -116,7 +116,7 @@ function addIntern() {
 
 function buildTeam() {
     fs.writeFile("./dist/index.html", generateHTML(employeeList), (err) =>
-    err ? console.log(err) : console.log('success'));
+    err ? console.log(err) : console.log('Your index.html file is in the dist folder.'));
 }
 
 getManager();
