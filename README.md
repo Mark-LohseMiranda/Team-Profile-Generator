@@ -30,8 +30,6 @@
 ![Screen Shot 2021-10-16 at 1 15 41 PM](https://user-images.githubusercontent.com/83737312/137601135-ab3d5af9-ea95-4ecb-abdf-f03864124514.png)
 [![YOUTUBE VIDEO](http://img.youtube.com/vi/CWo9ejLgrHw/0.jpg)](http://www.youtube.com/watch?v=CWo9ejLgrHw)
 
-CWo9ejLgrHw
-
 >
 > Use via terminal command node index.js
 >
